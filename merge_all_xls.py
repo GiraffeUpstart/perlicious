@@ -1,4 +1,4 @@
-# Works fine for at a few dozen XLS, may fail at huge numbers
+# Concatenate all xls files in current folder using pandas
 import os
 import pandas as pd
 
